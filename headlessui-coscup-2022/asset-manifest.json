@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.247a661d.js",
-    "static/js/787.f2b956c9.chunk.js": "/static/js/787.f2b956c9.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.247a661d.js.map": "/static/js/main.247a661d.js.map",
-    "787.f2b956c9.chunk.js.map": "/static/js/787.f2b956c9.chunk.js.map"
+    "main.css": "./static/css/main.fa506ee1.css",
+    "main.js": "./static/js/main.2a2f3e80.js",
+    "static/media/meme.png": "./static/media/meme.42a1a4e5d54c3c8e0b69.png",
+    "static/media/logo-styled-components.png": "./static/media/logo-styled-components.0fefccb0a398bba44766.png",
+    "static/media/calendar-design-1.png": "./static/media/calendar-design-1.1fdc6c70d942892bf5b5.png",
+    "static/media/logo-meterial-ui.jpeg": "./static/media/logo-meterial-ui.b09b76a8b962abe14173.jpeg",
+    "static/media/logo-tailwind.jpeg": "./static/media/logo-tailwind.6a1623324f27cfcf0847.jpeg",
+    "static/media/calendar-design-2.jpeg": "./static/media/calendar-design-2.972377757d8e7098975d.jpeg",
+    "static/media/logo-sass.jpeg": "./static/media/logo-sass.770b819deafe0e6ff8aa.jpeg",
+    "static/media/logo-css.png": "./static/media/logo-css.0c13c5cecd566fbab673.png",
+    "static/media/logo-emotion.jpeg": "./static/media/logo-emotion.b2d4b1ec087ea4c410db.jpeg",
+    "index.html": "./index.html",
+    "main.fa506ee1.css.map": "./static/css/main.fa506ee1.css.map",
+    "main.2a2f3e80.js.map": "./static/js/main.2a2f3e80.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.247a661d.js"
+    "static/css/main.fa506ee1.css",
+    "static/js/main.2a2f3e80.js"
   ]
 }
