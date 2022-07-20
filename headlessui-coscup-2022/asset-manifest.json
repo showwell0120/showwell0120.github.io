@@ -1,10 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.fa506ee1.css",
-    "main.js": "./static/js/main.8f9d66ba.js",
+    "main.js": "./static/js/main.e737ca5e.js",
+    "static/media/coinflip.gif": "./static/media/coinflip.5645e3f1782a4805b450.gif",
     "static/media/book.png": "./static/media/book.aa5be426de2fe2722440.png",
     "static/media/meme.png": "./static/media/meme.42a1a4e5d54c3c8e0b69.png",
+    "static/media/meme-5.png": "./static/media/meme-5.0e5d4bf42ffd43ee97db.png",
     "static/media/migo-1.png": "./static/media/migo-1.5f6cda6c25702c5b021a.png",
+    "static/media/meme-4.png": "./static/media/meme-4.e7b4ce2d209f81d4007e.png",
+    "static/media/meme-3.png": "./static/media/meme-3.014fdeabcb27de888258.png",
     "static/media/logo-styled-components.png": "./static/media/logo-styled-components.0fefccb0a398bba44766.png",
     "static/media/meme-2.png": "./static/media/meme-2.4d2228d90138a6042e05.png",
     "static/media/avatar.png": "./static/media/avatar.5d883b190fbba78dd4df.png",
@@ -21,10 +25,10 @@
     "static/media/logo-migo.svg": "./static/media/logo-migo.1aca329a70876ef7ae92890be8c7010a.svg",
     "index.html": "./index.html",
     "main.fa506ee1.css.map": "./static/css/main.fa506ee1.css.map",
-    "main.8f9d66ba.js.map": "./static/js/main.8f9d66ba.js.map"
+    "main.e737ca5e.js.map": "./static/js/main.e737ca5e.js.map"
   },
   "entrypoints": [
     "static/css/main.fa506ee1.css",
-    "static/js/main.8f9d66ba.js"
+    "static/js/main.e737ca5e.js"
   ]
 }
