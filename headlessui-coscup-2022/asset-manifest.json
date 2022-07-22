@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "./static/css/main.fa506ee1.css",
-    "main.js": "./static/js/main.e737ca5e.js",
+    "main.js": "./static/js/main.9fc20c85.js",
     "static/media/coinflip.gif": "./static/media/coinflip.5645e3f1782a4805b450.gif",
     "static/media/book.png": "./static/media/book.aa5be426de2fe2722440.png",
     "static/media/meme.png": "./static/media/meme.42a1a4e5d54c3c8e0b69.png",
+    "static/media/headless-link.png": "./static/media/headless-link.c03389e3ab57c4e33682.png",
     "static/media/meme-5.png": "./static/media/meme-5.0e5d4bf42ffd43ee97db.png",
     "static/media/migo-1.png": "./static/media/migo-1.5f6cda6c25702c5b021a.png",
     "static/media/meme-4.png": "./static/media/meme-4.e7b4ce2d209f81d4007e.png",
@@ -25,10 +26,10 @@
     "static/media/logo-migo.svg": "./static/media/logo-migo.1aca329a70876ef7ae92890be8c7010a.svg",
     "index.html": "./index.html",
     "main.fa506ee1.css.map": "./static/css/main.fa506ee1.css.map",
-    "main.e737ca5e.js.map": "./static/js/main.e737ca5e.js.map"
+    "main.9fc20c85.js.map": "./static/js/main.9fc20c85.js.map"
   },
   "entrypoints": [
     "static/css/main.fa506ee1.css",
-    "static/js/main.e737ca5e.js"
+    "static/js/main.9fc20c85.js"
   ]
 }
